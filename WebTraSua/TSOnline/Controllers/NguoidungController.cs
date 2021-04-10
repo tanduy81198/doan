@@ -76,9 +76,9 @@ namespace TSOnline.Controllers
             {
                 ViewData["Loi1"] = "Phải nhập tên đăng nhập";
             }
-            else if (String.IsNullOrEmpty(matkhau))
+            else if (String.IsNullOrEmpty(matkhau) && matkhau.Length <= 18 && matkhau.Length >=6)
                 {
-                ViewData["Loi2"] = "Phải nhập mật khẩu";
+                ViewData["Loi2"] = "Sai format";
                 }
                 else
                 {
