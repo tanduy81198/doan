@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<fieldset>
+    <legend>Fields</legend>
+    <div class="display-label">Id Loại tin: @Model.MaLoai</div>
+    <div class="display-label">Tên thể loại: @Model.TenLoai</div>
+</fieldset>
+@using (Html.BeginForm())
+{
+    <p>
+        @Html.ActionLink("Xóa ", "Deletes", new { id = Model.MaLoai })|
+        @Html.ActionLink("Sửa", "Edits", new { id = Model.MaLoai }) |
+        @Html.ActionLink("Back to List", "Loai")
+    </p>
+}
+

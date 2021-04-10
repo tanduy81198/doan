@@ -1,0 +1,11 @@
+﻿@model IEnumerable<TSOnline.Models.LOAI>
+
+<select class="form-control" name="loai" id="loai" style="width: 50%;">
+    <option value="-1">Tất cả sản phẩm</option>
+    @foreach (var item in Model)
+    {
+        <option value="@item.MaLoai">@item.TenLoai</option>
+    }
+</select>
+
+

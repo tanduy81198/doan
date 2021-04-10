@@ -1,0 +1,34 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+    ViewBag.Title = "Category_Shop";
+}
+
+
+<!-- breadcrumb start-->
+<!--================Category Product Area =================-->
+<section class="cat_product_area section_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="left_sidebar_area">
+                    <aside class="left_widgets p_filter_widgets">
+                        <div class="l_w_title">
+                            <h3>Categories</h3>
+                        </div>
+                        <div class="widgets_inner">
+                            @Html.Action("Category_Partialview", "Category")
+                        </div>
+                    </aside>
+
+                </div>
+            </div>
+            <div class="col-lg-9">
+                @RenderBody()
+            </div>
+            </div>
+        </div>
+</section>
+<!--================End Category Product Area =================-->
+<!-- product_list part start-->
+<!-- product_list part end-->
+<!--::footer_part start::-->

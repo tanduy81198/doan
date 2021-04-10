@@ -1,0 +1,62 @@
+﻿@using TSOnline.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<TSOnline.Models.KHACHHANG>
+@{
+    ViewBag.Title = "KhachHang";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+
+
+<div class="container">
+    <h2>Danh Sách Khách Hàng</h2>
+
+    <table class="table">
+        <tr>
+            <th scope="col">Mã KH</th>
+            <th scope="col">Họ Tên KH</th>
+            <th scope="col">Ngày Sinh</th>
+            <th scope="col">Email</th>
+            <th scope="col">Địa Chỉ</th>
+            <th scope="col">Điện Thoại KH</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaKH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaysinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiachiKH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienthoaiKH)
+            </td>
+            <td>
+                @Html.ActionLink("Xóa", "deleteKh", new { id = item.MaKH })
+            </td>
+        </tr>
+        }
+
+    </table>
+    @* Tao liên kết các trang  *@
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount;
+    <div class="MenuTrang">
+
+        @Html.PagedListPager(Model, page => Url.Action("KhachHang", new { page = page }))
+    </div>
+    <style>
+        .MenuTrang li {
+            display: inline;
+        }
+    </style>
+</div>

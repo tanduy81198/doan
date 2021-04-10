@@ -1,0 +1,732 @@
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\ApplicationInsights.config
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\csc.exe
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\vbc.exe
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\TSOnline.dll.config
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\TSOnline.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\TSOnline.pdb
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\EntityFramework.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Owin.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Razor.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\WebGrease.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.Razor.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\EntityFramework.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\PagedList.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\PagedList.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\theen\Documents\Visual Studio 2015\Projects\TSOnline\TSOnline\obj\Debug\TSOnline.csprojResolveAssemblyReference.cache
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\ApplicationInsights.config
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\csc.exe
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\vbc.exe
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\TSOnline.dll.config
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\TSOnline.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\TSOnline.pdb
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\EntityFramework.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Owin.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\PagedList.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Razor.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\WebGrease.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\PagedList.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.Razor.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\EntityFramework.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\obj\Debug\TSOnline.csproj.CoreCompileInputs.cache
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\obj\Debug\TSOnline.csproj.CopyComplete
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\MinhDuc\Desktop\TSOnline\TSOnline\TSOnline\obj\Debug\TSOnline.csprojAssemblyReference.cache
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\ApplicationInsights.config
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\csc.exe
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\vbc.exe
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\TSOnline.dll.config
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\TSOnline.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\TSOnline.pdb
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\EntityFramework.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Owin.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\PagedList.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Razor.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\WebGrease.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\PagedList.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Razor.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\EntityFramework.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\obj\Debug\TSOnline.csproj.CoreCompileInputs.cache
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\obj\Debug\TSOnline.csproj.CopyComplete
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Net.Http.Formatting.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Http.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Http.WebHost.dll
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Net.Http.Formatting.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Http.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\bin\System.Web.Http.WebHost.xml
+C:\Users\MinhDuc\Desktop\TSOnlineTemp\TSOnline\obj\Debug\TSOnline.csprojAssemblyReference.cache
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\ApplicationInsights.config
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\csc.exe
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\vbc.exe
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\TSOnline.dll.config
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\TSOnline.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\TSOnline.pdb
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Owin.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Net.Http.Formatting.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.WebHost.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Razor.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\WebGrease.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Net.Http.Formatting.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.WebHost.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Razor.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.csproj.CoreCompileInputs.cache
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.csproj.CopyComplete
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\ApplicationInsights.config
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\csc.exe
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\vbc.exe
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\TSOnline.dll.config
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\TSOnline.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\TSOnline.pdb
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Owin.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Net.Http.Formatting.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.WebHost.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Razor.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\WebGrease.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Net.Http.Formatting.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Http.WebHost.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.Razor.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.csproj.CoreCompileInputs.cache
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.csproj.CopyComplete
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\minhd\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.csprojAssemblyReference.cache
+C:\Users\MinhDuc\Desktop\Nhom1_LapTrinhWeb\TSOnline\obj\Debug\TSOnline.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\TSOnline.dll.config
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\TSOnline.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\TSOnline.pdb
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Owin.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\WebGrease.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\obj\Debug\TSOnline.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\PC\Desktop\Nhom1_LapTrinhWeb-master (2)\Nhom1_LapTrinhWeb-master\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\TSOnline.dll.config
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\TSOnline.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\TSOnline.pdb
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Owin.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\WebGrease.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\obj\Debug\TSOnline.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\PC\Desktop\ASP.net\Nhom1_LapTrinhWeb-master\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\ApplicationInsights.config
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\TSOnline.dll.config
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\TSOnline.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\TSOnline.pdb
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\EntityFramework.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.Web.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Owin.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\PagedList.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Http.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Http.WebHost.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\WebGrease.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.Web.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\PagedList.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\PagedList.Mvc.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Net.Http.Formatting.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Http.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Http.WebHost.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\EntityFramework.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\obj\Debug\TSOnline.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\obj\Debug\TSOnline.dll
+C:\Users\PC\Desktop\WebTraSua\WebTraSua\TSOnline\obj\Debug\TSOnline.pdb

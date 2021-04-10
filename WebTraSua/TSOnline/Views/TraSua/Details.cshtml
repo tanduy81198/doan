@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<!--================Single Product Area =================-->
+<div class="product_image_area section_padding">
+    <div class="container">
+        <div class="row s_product_inner justify-content-between">
+            <div class="col-lg-7 col-xl-7">
+                <div class="product_slider_img">
+                    <div id="vertical">
+                        <div data-thumb="~/img/@Model.TenTS">
+                            <img src="~/img/@Model.Anhbia" />
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5 col-xl-4">
+                <div class="s_product_text">
+                    <h3>@Model.TenTS</h3>
+                    <h2>@Model.Giaban VNĐ</h2>
+                    <ul class="list">
+                        <li>
+                            <a class="active" href="#">
+                                <span>Category</span> : @ViewBag.TenSP
+                            </a>
+                        </li>
+                    </ul>                   
+                    <div class="card_area d-flex justify-content-between align-items-center">                        
+                        <a href="@Url.Action("ThemGioHang", "GioHang", new { @iMaTS = @Model.MaTS, strURL=Request.Url.ToString() })" class="btn_3">Orders</a>
+                        <a href="#" class="like_us"> <i class="ti-heart"></i> </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="fb-comments" data-href="http://localhost:55131/TraSua/Details/@Model.MaTS" data-numposts="5" data-width="750"></div>
+<!--================End Single Product Area =================-->
+<!--================Product Description Area =================-->
+<!--================End Product Description Area =================-->
+<!-- product_list part start-->
+<section class="product_list best_seller section_padding">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <div class="section_tittle text-center">
+                    <h2>Trà sữa cùng loại</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row align-items-center justify-content-between">
+            <div class="col-lg-12">
+                <div class="best_product_slider owl-carousel">
+                    @Html.Action("Related", "TraSua",new { id = Model.MaLoai})
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+

@@ -1,0 +1,10 @@
+﻿@model IEnumerable<TSOnline.Models.LOAI>
+<li><a href="#" target="_parent">Thực đơn</a></li>
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a href="@Url.Action("ThucDon", "TraSua", new { id = item.MaLoai})" class="list-group-item">
+            @item.TenLoai
+        </a>
+    }
+</div>

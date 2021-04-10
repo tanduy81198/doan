@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+<h2 style="text-align:center">Đăng Ký</h2>
+<div class="container" style="width: 29%;margin-top:30px;padding-right:0px">
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <div class="mb-3">
+            <label for="firstName">Họ Tên Khách Hàng</label>
+            <input type="text" class="form-control" name="HotenKH" required="">
+            <div class="invalid-feedback">
+                Valid full name is required.
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="firstName">Tên Đăng Nhập</label>
+            <input type="text" class="form-control" name="TenDN" required="">
+            <div class="invalid-feedback">
+                Valid full name is required.
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label for="firstName">Mật Khẩu</label>
+            <input type="password" class="form-control" name="Matkhau" required="">
+            <div class="invalid-feedback">
+                Valid Mat Khau is required.
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="firstName">Nhập Lại Mật Khẩu</label>
+            <input type="password" class="form-control" name="Matkhaunhaplai" required="">
+            <div class="invalid-feedback">
+                Valid Mat Khau is required.
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="firstName">Email</label>
+            <input type="email" class="form-control" name="Email">
+            <div class="invalid-feedback">
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="firstName">Địa Chỉ</label>
+            <input type="text" class="form-control" name="Diachi">
+            <div class="invalid-feedback">
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="firstName">Số Điện Thoại</label>
+            <input type="text" class="form-control" name="Dienthoai">
+            <div class="invalid-feedback">
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="firstName">Ngày Tháng Năm Sinh</label>
+            <input type="date" class="form-control" name="Ngaysinh">
+            <div class="invalid-feedback">
+            </div>
+        </div>
+        <input style="margin-left: 150px;" class="btn_1" type="submit" value="Đăng Ký" />
+        
+
+    }
+</div>
+
+

@@ -1,0 +1,56 @@
+﻿@model TSOnline.Models.TRASUA
+
+@{
+    ViewBag.Title = "Delete";
+}
+<div class="container">
+    <h2>Xóa thông tin của trà sữa này !</h2>
+
+    <h3>Xác nhận</h3>
+    <div>
+
+        <hr />
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <dl class="dl-horizontal">
+                <dt>
+                    Tên trà sữa
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.TenTS)
+                </dd>
+
+                <dt>
+                    Giá bán
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Giaban)
+                </dd>
+
+                <dt>
+                    Ảnh minh họa
+                </dt>
+
+                <dd>
+                    <img src="@Url.Content("~/img/"+ Model.Anhbia)" width="250" height="250" />
+                </dd>
+
+            </dl>
+
+
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn_1" /> 
+                <a class="btn_1" href="@Url.Action("TraSua","Admin")">Trở Lại Danh Sách</a>
+            </div>
+        }
+    </div>
+</div>
+
+
+
+
+

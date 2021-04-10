@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Dangnhap";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+@if(Session["Taikhoan"] != null)
+{
+    Html.Action("Index", "TraSua");
+}
+<div class="container" style="width: 35%">
+    <!-- Default form register -->
+    <form method="post" class="text-center border border-light p-5" action="@Url.Action("DangNhap","NguoiDung")">
+        @Html.ValidationSummary(true)
+        <p class="h4 mb-4">Sign in</p>
+        <!-- E-mail -->
+        <input type="text" class="form-control mb-4" name="TenDN" placeholder="UserName">
+
+        <!-- Password -->
+        <input type="password" class="form-control" name="Matkhau" placeholder="Password">
+
+        <!-- Sign up button -->
+        <button class="btn btn-info my-4 btn-block" type="submit">Sign in</button>
+
+        <!-- Social register -->
+        <p>or sign up with:</p>
+
+        <a href="#" class="mx-2" role="button"><i class="fab fa-facebook-f light-blue-text"></i></a>
+        <a href="#" class="mx-2" role="button"><i class="fab fa-twitter light-blue-text"></i></a>
+        <a href="#" class="mx-2" role="button"><i class="fab fa-linkedin-in light-blue-text"></i></a>
+        <a href="#" class="mx-2" role="button"><i class="fab fa-github light-blue-text"></i></a>
+        
+    </form>
+    <!-- Default form register -->
+</div>
+
+
+

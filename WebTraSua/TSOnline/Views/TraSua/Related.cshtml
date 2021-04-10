@@ -1,0 +1,14 @@
+﻿
+@foreach (var ts in Model)
+{
+    <div class="single_product_item gettop">
+        <img src="/img/@ts.Anhbia" alt="">
+        <div class="single_product_text">
+            <h4>@ts.TenTS</h4>
+            <h3>@ts.Giaban VNĐ</h3>
+            <a href="@Url.Action("Details", "TraSua", new { id = ts.MaTS})" class="btn_2">Details</a>
+        </div>
+    </div>
+}
+
+

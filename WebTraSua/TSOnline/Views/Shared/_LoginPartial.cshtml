@@ -1,0 +1,34 @@
+﻿@using TSOnline.Models
+@{
+    /**/
+
+    var session = Session["Taikhoan"];
+    var sessionadmin = Session["Taikhoanadmin"];
+    var User = session as KHACHHANG;
+    var Admin = sessionadmin as Admin;
+
+}
+@if (session != null || sessionadmin != null)
+{
+    using (Html.BeginForm("DangXuat", "NguoiDung", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    @(sessionadmin!=null ? "Admin " + Admin.Hoten:User.HoTen)<span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu">                    
+                    <li><a class="dropdown-item" href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+                </ul>
+            </li>
+        </ul>
+    }
+}
+else
+{
+
+@Html.ActionLink("Log in", "DangNhap", "NguoiDung", routeValues: null, htmlAttributes: new {@class = "nav-link" })
+@Html.ActionLink("Register", "DangKy", "NguoiDung", routeValues: null, htmlAttributes: new { @class = "nav-link" })
+
+}

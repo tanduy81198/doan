@@ -1,0 +1,115 @@
+﻿@using TSOnline.Models
+@model List<GioHang>
+
+@{
+    ViewBag.Title = "ĐƠN ĐẶT HÀNG";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+} <h2 style="text-align:center;margin-top:20px">THÔNG TIN ĐƠN HÀNG</h2>
+<section class="cart_area padding_top">
+    <div class="container">
+        <div class="cart_inner">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Product</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col"></th>
+                            <th scope="col">Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @using (Html.BeginForm("CapnhatGiohang", "GioHang"))
+                        {
+                            foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        <div class="media">
+                                            <div class="d-flex">
+                                                <img src="~/img/@item.sAnhbia" alt="@item.sTenTS" />
+                                            </div>
+                                            <div class="media-body">
+                                                <p>@item.sTenTS</p>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <h5>@String.Format("{0:0,0}", item.dDongia)</h5>
+                                    </td>
+                                    <td style="padding-left: 40px;">
+                                        <div class="product_count">
+                                            <p>@item.iSoluong</p>
+                                        </div>
+                                    </td>
+                                    <td></td>
+                                    <td>
+                                        <h5>@String.Format("{0:0,0}", item.dThanhtien)</h5>
+                                    </td>
+
+                                </tr>
+                            }
+                            <tr>
+
+                                <td><a class="btn_1" href="@Url.Action("GioHang","GioHang")">Quay Lại Giỏ Hàng</a></td>
+                                <td><h4>Tổng số lượng</h4></td>
+                                <td>
+                                    <h5 style="padding-left: 30px;">@ViewBag.Tongsoluong</h5>
+                                </td>
+                                <td><h4>Tổng tiền</h4></td>
+                                <td>
+                                    <h5 style="width: 100px;">@String.Format("{0:0,0}", ViewBag.Tongtien) VNĐ</h5>
+                                </td>
+                                <td></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+<h2 style="text-align:center">THÔNG TIN ĐẶT HÀNG</h2>
+@{
+    KHACHHANG kh = (KHACHHANG)Session["Taikhoan"];
+}
+<div class="container" style="width: 29%;margin-top:30px;padding-right:0px">
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+            <div class="mb-3">
+                <label for="firstName">Họ Tên Khách Hàng</label>
+                <input type="text" class="form-control" name="hoten" value="@kh.HoTen" readonly required="">
+                <div class="invalid-feedback">
+                    Valid first name is required.
+                </div>
+            </div>
+        
+
+        <div class="mb-3">
+            <label for="address">Địa chỉ</label>
+            <input type="text" class="form-control" value="@kh.DiachiKH" required="">
+            <div class="invalid-feedback">
+                Vui lòng nhập địa chỉ
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label for="numberphone">Số Điện Thoại</label>
+            <input type="text" class="form-control" value="@kh.DienthoaiKH" name="sodienthoai" required="">
+        </div>
+        <div class="mb-3">
+            <label for="ngaydat">Ngày Đặt</label>
+            <input type="text" class="form-control" name="ngaydat" value="@DateTime.Now.ToShortDateString()" readonly>
+        </div>
+
+        <div class="mb-3">
+            <label for="ngaydat">Ngày Giao</label>
+            <input type="date" class="form-control" name="ngaygiao" required="">
+        </div>
+
+        <hr class="mb-4">
+        <button class="btn btn-primary btn-lg btn-block" onclick="return confirm('Bạn có đồng ý đặt hàng?')" type="submit">Đặt Hàng</button>
+    }
+</div>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLTRASUA" Class="dbQLTraSuaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=LAPTOP-EKPAHCIN\DUY;Initial Catalog=QLTRASUA;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="QLTRASUAConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CHITIETDONTHANG" Member="CHITIETDONTHANGs">
+    <Type Name="CHITIETDONTHANG">
+      <Column Name="MaDonHang" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaTS" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Soluong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Dongia" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="ThanhTien" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="DONDATHANG_CHITIETDONTHANG" Member="DONDATHANG" ThisKey="MaDonHang" OtherKey="MaDonHang" Type="DONDATHANG" IsForeignKey="true" />
+      <Association Name="TRASUA_CHITIETDONTHANG" Member="TRASUA" ThisKey="MaTS" OtherKey="MaTS" Type="TRASUA" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DONDATHANG" Member="DONDATHANGs">
+    <Type Name="DONDATHANG">
+      <Column Name="MaDonHang" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Dathanhtoan" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Tinhtranggiaohang" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Ngaydat" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Ngaygiao" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="MaKH" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DiaChiGiao" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTNguoiNhan" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Association Name="DONDATHANG_CHITIETDONTHANG" Member="CHITIETDONTHANGs" ThisKey="MaDonHang" OtherKey="MaDonHang" Type="CHITIETDONTHANG" />
+      <Association Name="KHACHHANG_DONDATHANG" Member="KHACHHANG" ThisKey="MaKH" OtherKey="MaKH" Type="KHACHHANG" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KHACHHANG" Member="KHACHHANGs">
+    <Type Name="KHACHHANG">
+      <Column Name="MaKH" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="HoTen" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Taikhoan" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Matkhau" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="DiachiKH" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="DienthoaiKH" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ngaysinh" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="KHACHHANG_DONDATHANG" Member="DONDATHANGs" ThisKey="MaKH" OtherKey="MaKH" Type="DONDATHANG" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LOAI" Member="LOAIs">
+    <Type Name="LOAI">
+      <Column Name="MaLoai" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenLoai" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="LOAI_TRASUA" Member="TRASUAs" ThisKey="MaLoai" OtherKey="MaLoai" Type="TRASUA" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TRASUA" Member="TRASUAs">
+    <Type Name="TRASUA">
+      <Column Name="MaTS" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TenTS" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Giaban" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Anhbia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MaLoai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="TRASUA_CHITIETDONTHANG" Member="CHITIETDONTHANGs" ThisKey="MaTS" OtherKey="MaTS" Type="CHITIETDONTHANG" />
+      <Association Name="TRASUA_BANNER" Member="BANNERs" ThisKey="MaTS" OtherKey="MaTS" Type="BANNER" />
+      <Association Name="LOAI_TRASUA" Member="LOAI" ThisKey="MaLoai" OtherKey="MaLoai" Type="LOAI" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BANNER" Member="BANNERs">
+    <Type Name="BANNER">
+      <Column Name="MaBanner" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MaTS" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NoiDung" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="TRASUA_BANNER" Member="TRASUA" ThisKey="MaTS" OtherKey="MaTS" Type="TRASUA" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Admin" Member="Admins">
+    <Type Name="Admin">
+      <Column Name="UserAdmin" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PassAdmin" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Hoten" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.DoanhThu" Method="DoanhThu">
+    <Parameter Name="ngaybatdau" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="ngayketthuc" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="DoanhThu" Parameter="doanhThu" Type="System.Int64" DbType="BigInt" Direction="InOut" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.topbanchay" Method="topbanchay">
+    <ElementType Name="topbanchayResult">
+      <Column Name="MaTS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[Tong so luong]" Member="Tong_so_luong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.LoadBanner" Method="LoadBanner">
+    <ElementType Name="LoadBannerResult">
+      <Column Name="MaTS" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TenTS" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Giaban" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="Anhbia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="MaLoai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NoiDung" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TenLoai" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

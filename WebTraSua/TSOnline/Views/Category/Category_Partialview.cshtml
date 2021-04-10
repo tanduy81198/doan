@@ -1,0 +1,11 @@
+﻿<ul class="list">
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="@Url.Action("Category_Shop","Category",new { id = item.MaLoai})">@item.TenLoai</a>
+        </li>
+    }
+    <li>
+        <a href="@Url.Action("Index","Category")">Alls</a>
+    </li>
+</ul>

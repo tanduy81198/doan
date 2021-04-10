@@ -1,0 +1,58 @@
+﻿@model TSOnline.Models.KHACHHANG
+
+@{
+    ViewBag.Title = "deleteKh";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+
+<div class="container">
+    <h2>Xóa thông tin của trà sữa này !</h2>
+    <h3>Xác nhận</h3>
+    <div>
+        <hr />
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <dl class="dl-horizontal">
+                <dt>
+                    Tên Khách hàng
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.HoTen)
+                </dd>
+                <dt>
+                    Email
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+                <dt>
+                    Địa Chỉ
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.DiachiKH)
+                </dd>
+                <dt>
+                    Điện Thoại
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.DienthoaiKH)
+                </dd>
+                <dt>
+                   Ngày sinh
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Ngaysinh)
+                </dd>
+                
+            </dl>
+
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn_1" />
+                <a class="btn_1" href="@Url.Action("KhachHang","Admin")">Trở Lại Danh Sách</a>
+            </div>
+        }
+    </div>
+</div>
+

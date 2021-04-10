@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+
+<div class="container">
+    <h2>Thêm mới</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <fieldset>
+            <p>
+                Tên thể loại :
+                @Html.TextBox("TenLoai") <font color=red>
+                    @ViewData["Loi"]
+                </font>
+            </p>
+            <p>
+                <input type="submit" value="Create" />
+            </p>
+        </fieldset>
+    }
+    <div>
+        @Html.ActionLink("Back to List", "Loai")
+    </div>
+    </div>
+    
+

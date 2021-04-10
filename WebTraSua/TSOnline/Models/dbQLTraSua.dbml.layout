@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.625, 11.5" name="dbQLTraSua">
+  <DataContextMoniker Name="/dbQLTraSuaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6f747149-3285-4dfa-8cf1-1a5f46acdd97" absoluteBounds="6.75, 1.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/dbQLTraSuaDataContext/CHITIETDONTHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df90dfdc-d5a4-42af-b0f6-3444a7a0be3b" absoluteBounds="6.765, 1.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ab0c3227-e0f8-4fbe-9133-dab6f85d979f" absoluteBounds="2, 0.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/dbQLTraSuaDataContext/DONDATHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="262870e4-f55d-420d-b6b9-a65099a8754b" absoluteBounds="2.015, 1.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="adcc706e-24af-4dff-a82b-f4574c0d3ac0" absoluteBounds="0.75, 8.875, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/dbQLTraSuaDataContext/KHACHHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a298454-3aa6-4a25-b87d-f77bf672c197" absoluteBounds="0.765, 9.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="51090e66-9af1-4e89-b47c-dec5121a2364" absoluteBounds="0.75, 4.375, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/dbQLTraSuaDataContext/LOAI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9c20583-ad2c-4752-a2e7-bea284ef0d59" absoluteBounds="0.765, 4.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="380a6eba-e3f7-4908-b3db-c696a07da26b" absoluteBounds="9.125, 4, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/dbQLTraSuaDataContext/TRASUA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cdf39e8d-916a-4747-9503-d40ebff2f804" absoluteBounds="9.14, 4.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4ca6550f-3e58-4a20-ba10-c432899f4934" absoluteBounds="6.25, 7.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbQLTraSuaDataContext/BANNER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="351ef1ff-efa8-4992-9365-39295dd1c449" absoluteBounds="6.265, 7.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b250838-6c35-4897-bc81-3e7e62063909" absoluteBounds="12.375, 2.125, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/dbQLTraSuaDataContext/Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88b4c2be-a0a1-4c07-a87e-9d49d8509060" absoluteBounds="12.39, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4 : 2.29890055338542); (6.75 : 2.29890055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbQLTraSuaDataContext/DONDATHANG/DONDATHANG_CHITIETDONTHANG" />
+      <nodes>
+        <classShapeMoniker Id="ab0c3227-e0f8-4fbe-9133-dab6f85d979f" />
+        <classShapeMoniker Id="6f747149-3285-4dfa-8cf1-1a5f46acdd97" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.0489005533854); (3.3750005 : 10.0489005533854); (3.3750005 : 3.09780110677083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbQLTraSuaDataContext/KHACHHANG/KHACHHANG_DONDATHANG" />
+      <nodes>
+        <classShapeMoniker Id="adcc706e-24af-4dff-a82b-f4574c0d3ac0" />
+        <classShapeMoniker Id="ab0c3227-e0f8-4fbe-9133-dab6f85d979f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.125 : 4); (10.125 : 2.38544840494792); (8.75 : 2.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbQLTraSuaDataContext/TRASUA/TRASUA_CHITIETDONTHANG" />
+      <nodes>
+        <classShapeMoniker Id="380a6eba-e3f7-4908-b3db-c696a07da26b" />
+        <classShapeMoniker Id="6f747149-3285-4dfa-8cf1-1a5f46acdd97" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.97199625651042); (3.29166716666667 : 4.97199625651042 : JumpStart); (3.45833383333333 : 4.97199625651042 : JumpEnd); (9.125 : 4.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbQLTraSuaDataContext/LOAI/LOAI_TRASUA" />
+      <nodes>
+        <classShapeMoniker Id="51090e66-9af1-4e89-b47c-dec5121a2364" />
+        <classShapeMoniker Id="380a6eba-e3f7-4908-b3db-c696a07da26b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.125 : 5.77089680989583); (10.125 : 7.94314697265625); (8.25 : 7.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbQLTraSuaDataContext/TRASUA/TRASUA_BANNER" />
+      <nodes>
+        <classShapeMoniker Id="380a6eba-e3f7-4908-b3db-c696a07da26b" />
+        <classShapeMoniker Id="4ca6550f-3e58-4a20-ba10-c432899f4934" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,33 @@
+﻿@using TSOnline.Models
+@using PagedList.Mvc
+@model PagedList.PagedList<TRASUA>
+@{
+    Layout = "~/Views/Shared/_LayoutCategory.cshtml";
+}
+
+<div class="row">
+    <h2>@ViewBag.TenLoai</h2>
+</div>
+<div class="row align-items-center latest_product_inner">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-4 col-sm-6">
+            <div class="single_product_item">
+                <a href="@Url.Action("Details","TraSua",new { id = item.MaTS })">
+                <img src="~/img/@item.Anhbia" alt="">
+                 </a>
+                <div class="single_product_text">
+                    <h4>@item.TenTS</h4>
+                    <h3>@item.Giaban VNĐ</h3>
+                    @*<a href="@Url.Action("Details","TraSua",new { id = item.MaTS })" class="add_cart">Details<i class="ti-heart"></i></a>*@
+                </div>
+            </div>
+        </div>
+    }
+    <div class="col-lg-12">
+        <div class="MenuTrang">
+            @Html.PagedListPager(Model, page => Url.Action("Category_Shop", new { page = page }))
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "DetailHoaDon";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+
+<div class="container">
+    <h2>Quản Lý Hoá Đơn</h2>
+    <table class="table">
+        <tr>
+           
+            <th style="width:200px">  Tên Trà Sữa </th>
+            <th style="width:100px">  Số Lượng </th>
+            <th style="width:300px">  Đơn Giá   </th>
+            <th style="width:300px">  Thành Tiền    </th> 
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                
+                <td>
+                   @item.TRASUA.TenTS
+                </td>
+                <td>
+                    @item.Soluong
+                </td>
+                <td>
+                    @item.Dongia VNĐ
+                </td>
+                <td>
+                    @item.ThanhTien VNĐ
+                </td>
+             
+            </tr>
+          
+
+
+        }
+        <tr>
+            <td colspan="4">Tổng Tiền :@ViewBag.tongtien VNĐ  </td>
+        </tr>
+
+    </table>
+</div>

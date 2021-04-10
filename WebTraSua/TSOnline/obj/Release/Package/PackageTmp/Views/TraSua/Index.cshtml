@@ -1,0 +1,49 @@
+﻿@using TSOnline.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<TRASUA>
+@{
+    ViewBag.Title = "Trang Chủ";
+}
+
+<!-- banner part start-->
+
+<!-- banner part start-->
+<!-- feature_part start-->
+<section class="feature_part padding_top">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="section_tittle text-center">
+                    <h2>Menu</h2>
+                </div>
+            </div>            
+        </div>
+        <div class="row align-items-center justify-content-between">
+            @foreach (var ts in Model)
+            {
+                <div class="col-lg-4 col-sm-6">
+                    <div class="single_feature_post_text">
+                        <h3>@ts.TenTS</h3>
+                        <a href="@Url.Action("Details","TraSua", new {id =ts.MaTS })" class="feature_btn">Detail<i class="fas fa-play"></i></a>
+                        <img src="/img/@ts.Anhbia" alt="">
+                    </div>
+                </div>
+            }
+        </div>
+        @*tạo liên kết các trang*@
+        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount;
+        <div class="MenuTrang">
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+        </div>
+    </div>
+</section>
+<!-- upcoming_event part start-->
+
+<!-- jquery plugins here-->
+<!-- custom js -->
+@section scripts
+{
+    <script>
+        
+    </script>    
+}

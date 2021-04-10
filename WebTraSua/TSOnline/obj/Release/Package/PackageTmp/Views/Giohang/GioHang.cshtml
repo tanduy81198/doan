@@ -1,0 +1,103 @@
+﻿@using TSOnline.Models
+@model List<GioHang>
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+
+
+<section class="cart_area padding_top">
+    <div class="container">
+        <div class="cart_inner">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Product</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col"></th>
+                            <th scope="col">Total</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @using (Html.BeginForm("CapnhatGiohang", "GioHang"))
+                        {
+                            foreach (var item in Model)
+                            {
+                        <tr>
+                            <td>
+                                <div class="media">
+                                    <div class="d-flex">
+                                        <img src="~/img/@item.sAnhbia" alt="@item.sTenTS" />
+                                    </div>
+                                    <div class="media-body">
+                                        <p>@item.sTenTS</p>
+                                    </div>
+                                </div>
+                            </td>
+                            <td>
+                                <h5>@String.Format("{0:0,0}", item.dDongia)</h5>
+                            </td>
+                            <td>
+                                <div class="product_count">
+
+                                    <input class="input-number" type="number" name="@item.iMaTS" value="@item.iSoluong" min="0">
+
+                                </div>
+                            </td>
+                            <td></td>
+                            <td>
+                                <h5>@String.Format("{0:0,0}", item.dThanhtien)</h5>
+                            </td>
+                            <td>
+                                <a href="@Url.Action("Xoagiohang","GioHang",new {@iMaSP = item.iMaTS })" class="btn-delete btn btn-danger btn-sm"  onclick="return confirm('Bạn có muốn xoá sách này khỏi giỏ hàng?')"><i class="fa fa-trash"></i></a>
+                            </td>
+                        </tr>
+                            }
+
+                            <tr>
+
+                                <td></td>
+                                <td><h4>Tổng số lượng</h4></td>
+                                <td>
+                                    <h5 style="padding-left: 30px;">@ViewBag.Tongsoluong</h5>
+                                </td>
+                                <td><h4>Tổng tiền</h4></td>
+                                <td>
+                                    <h5 style="width: 100px;">@String.Format("{0:0,0}", ViewBag.Tongtien) VNĐ</h5>
+                                </td>
+                                <td></td>
+                            </tr>
+                            <tr class="bottom_button">
+                                <td>
+                                    <button class="btn_1" type="submit">Cập Nhật Giỏ Hàng</button>
+                                </td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>
+                                    <div class="cupon_text float-right">
+                                        <a class="btn_1" onclick="return confirm('Bạn có muốn xoá giỏ hàng?')" href="@Url.Action("XoaTatcaGiohang","GioHang")">Xoá Giỏ Hàng</a>
+                                    </div>
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+                <div class="checkout_btn_inner float-right">
+                    <a class="btn_1" href="/">Tiếp Tục Mua Hàng</a>
+                    <a class="btn_1 checkout_btn_1" onclick="return confirm('Tiến hành thanh toán')" href="@Url.Action("DatHang","GioHang")">Thanh Toán</a>
+                </div>
+            </div>
+        </div>
+        </div>
+</section>
+<!--================End Cart Area =================-->
+<!--::footer_part start::-->

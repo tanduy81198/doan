@@ -1,0 +1,32 @@
+﻿@using TSOnline.Models;
+@{
+    ViewBag.Title = "Loai";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+
+<div class="container">
+    <h2>Danh Sách Loại Trà Sữa</h2>
+
+    <a class="btn_1" href="@Url.Action("Create","Admin")">Thêm Mới</a>
+    <table class="table">
+        <tr>
+            <th style="width:200px">  Tên Loại </th>
+           
+            <th style="width:200px">  </th>
+        </tr>
+        @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @item.TenLoai
+                </td>
+             
+                <td>
+                    @Html.ActionLink("Sửa", "Edits", new { id = item.MaLoai }) |
+                    @Html.ActionLink("Chi tiết", "Details", new { id = item.MaLoai }) |
+                    @Html.ActionLink("Xóa", "Deletes", new { id = item.MaLoai })
+                </td>
+            </tr>
+        }
+    </table>
+</div>

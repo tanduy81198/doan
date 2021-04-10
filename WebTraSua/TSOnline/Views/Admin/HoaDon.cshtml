@@ -1,0 +1,69 @@
+﻿@using TSOnline.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<TSOnline.Models.DONDATHANG>
+@{
+    ViewBag.Title = "HoaDon";
+    Layout = "~/Views/Shared/_Layoutuser.cshtml";
+}
+
+<div class="container">
+    <h2>Quản Lý Hoá Đơn</h2>
+    <table class="table">
+        <tr>
+            <th style="width:200px">  Tên Khách hàng </th>
+            <th style="width:100px">  Ngày đặt hàng  </th>
+            <th style="width:300px">  Ngày giao hàng    </th>
+            <th style="width:120px">  Địa Chỉ giao hàng  </th>
+            <th style="width:120px">  Số điện thoại  </th>
+            <th style="width:120px">  tình trạng giao hàng  </th>
+            <th style="width:120px">  Đã thanh toán  </th>
+            <th style="width:200px">  </th>
+        </tr>
+        @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.KHACHHANG.HoTen)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ngaydat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ngaygiao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiaChiGiao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SDTNguoiNhan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tinhtranggiaohang)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dathanhtoan)
+                </td>
+                <td>
+
+                    @Html.ActionLink("Chi tiết", "DetailHoaDon", new { id = item.MaDonHang }) |
+
+                </td>
+            </tr>
+        }
+    </table>
+    @* Tao liên kết các trang  *@
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount;
+    <div class="MenuTrang">
+        @Html.PagedListPager(Model, page => Url.Action("HoaDon", new { page = page }))
+    </div>
+    <style>
+        .MenuTrang li {
+            display: inline;
+        }
+    </style>
+</div>
+
+
+
+
+
