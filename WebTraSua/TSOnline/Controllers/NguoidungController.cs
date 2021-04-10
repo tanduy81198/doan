@@ -43,7 +43,15 @@ namespace TSOnline.Controllers
             kh.DienthoaiKH = dienthoai;
             kh.Ngaysinh =DateTime.Parse(ngaysinh);
             data.KHACHHANGs.InsertOnSubmit(kh);
-            data.SubmitChanges();
+            try
+            {
+                data.SubmitChanges();
+            }
+            catch (Exception e)
+            {
+                ViewBag.Thongbao = "fail";
+            }
+
             ViewBag.Thongbao = "Chúc mừng đăng nhập thành công";
             return RedirectToAction("Dangnhap");
             
