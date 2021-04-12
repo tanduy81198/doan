@@ -7,6 +7,8 @@ using TSOnline.Models;
 using PagedList;
 using PagedList.Mvc;
 using System.IO;
+using Rotativa;
+using Rotativa.MVC;
 
 namespace TSOnline.Controllers
 {
@@ -435,21 +437,12 @@ namespace TSOnline.Controllers
         }
         public ActionResult HoaDon(int? page)
         {
-            if (Session["Taikhoanadmin"] != null)
-            {
+            
                 int pageNumber = (page ?? 1);
                 int pageSize = 6;
                 //return View(data.TRASUAs.ToList());
                 return View(data.DONDATHANGs.ToList().OrderBy(n => n.MaDonHang).ToPagedList(pageNumber, pageSize));
-            }
-            else if (Session["Taikhoan"] != null)
-            {
-                return RedirectToAction("Index", "TraSua");
-            }
-            else
-            {
-                return RedirectToAction("DangNhap", "NguoiDung");
-            }
+           
 
         }
         public ActionResult DetailHoaDon(int id)
@@ -481,7 +474,13 @@ namespace TSOnline.Controllers
             return tongtien;
         }
       
-
+        public ActionResult Pdf()
+        {
+            return new ActionAsPdf("HoaDon")
+            {
+                FileName = Server.MapPath("~/content/list.pdf")
+            };
+        }
 
     }
 }

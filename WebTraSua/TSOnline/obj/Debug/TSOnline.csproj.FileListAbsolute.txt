@@ -822,3 +822,5 @@ C:\Users\PC\Desktop\doanCC\doan\WebTraSua\TSOnline\bin\Microsoft.Owin.Security.M
 C:\Users\PC\Desktop\doanCC\doan\WebTraSua\TSOnline\obj\Debug\TSOnline.csprojResolveAssemblyReference.cache
 C:\Users\PC\Desktop\doanCC\doan\WebTraSua\TSOnline\obj\Debug\TSOnline.dll
 C:\Users\PC\Desktop\doanCC\doan\WebTraSua\TSOnline\obj\Debug\TSOnline.pdb
+C:\Users\PC\Desktop\doanCC\doan\WebTraSua\TSOnline\bin\Rotativa.Core.dll
+C:\Users\PC\Desktop\doanCC\doan\WebTraSua\TSOnline\bin\Rotativa.MVC.dll
